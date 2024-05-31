@@ -1,1 +1,12 @@
+These synthetic signals were generated from the spectral patterns of the tones of some real musical instruments available in the TinySOL database. The selection of the reference instruments and tones was based on the requirement of having the frequencies of the tones, not including semitones, covering the largest possible interval within the tempered scale. In particular, the set of synthetic signals generated starts at the frequency of note A1 (55Hz) and ends at the frequency of note C8 (4186Hz), resulting in a total of 45 representative spectral patterns corresponding to notes produced by the accordion, bass tuba, clarinet, violin or viola, depending on the pitch of the note and the spectral interval of each of these instruments.
 
+Specifically, pure fundamental frequencies and notes with up to 11 harmonics are included. In turn, each of these signals, pure or harmonic, are provided without noise or with AWGN noise, with SNR of 10 or 1, to result in 6 types of signals, each with 45 frequencies (in the interval of the tempered scale) and sequences, with duration of 1 second, sampled at 16ksps:
+
+Array	              Description
+sol_pure_16ksps	    signals of pure fundamental frequencies
+sol_p10snr_16ksps	  signals of pure fundamental frequencies and AWGN with SNR=10
+sol_p1snr_16ksps	  signals of pure fundamental frequencies and AWGN with SNR=1
+sol_harm_16ksps	    signals with up to 11 harmonics
+sol_h10snr_16ksps	  signals with up to 11 harmonics and AWGN with SNR=10
+sol_h1snr_16ksps	  signals with up to 11 harmonics and AWGN with SNR=1
+list_freq	          frequency list

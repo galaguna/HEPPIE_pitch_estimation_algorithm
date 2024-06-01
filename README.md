@@ -4,11 +4,11 @@ HEPPIE, a simple and practical pith estimation algorithm
 ![Figure-1](Figures/Figure_01.png)
 
 ## WHAT IS IT?
-It is an algorithm to estimate the fundamental frequency of sound signals, which requires a minimum of parameters and is characterized by operating in a wide audible spectrum, ranging from 50 Hz to 5 kHz, with an ac-curacy and execution times adjustable according to the required resolution. 
+It is an algorithm to estimate the fundamental frequency of sound signals, which requires a minimum of parameters and is characterized by operating in a wide audible spectrum, ranging from 50 Hz to 5 kHz, with an accuracy and execution times adjustable according to the required resolution. 
 
 ## HOW IT WORKS
 
-HEPPIE algorithm operates primarily in the frequency domain, specifically from the calculation of the periodogram, by means of the FFT and a differential filter processing followed by a matched filter, in order to detect the significant spectral peaks and the distance between them.
+The algorithm HEPPIE (for "HElpful and Practical PItch Estimation") operates primarily in the frequency domain, specifically based on the computation of the periodogram, by means of the FFT, and a differential filter processing followed by a matched filter, in order to detect the significant spectral peaks and the distance between them.
 
 ## HOW TO USE IT
 

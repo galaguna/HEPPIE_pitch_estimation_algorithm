@@ -32,7 +32,7 @@ Fork the code to improve it.
 
 The published work that complements the code of this repository is the following: 
 
--Article submitted for possible publication.
+-Laguna-Sanchez, G.A. et al (2024). Simple and practical algorithm for wide spectrum pitch estimation with an acceptable compromise between accuracy and computational cost. In Proceedings of IV Conferencia Internacional en Comunicación y Tecnologías Aplicadas (ICOMTA'24). Lima, Perú.
 
 This paper outlines, in more detail, the related work and formal background of this proposal.
 
@@ -43,7 +43,7 @@ This paper outlines, in more detail, the related work and formal background of t
 
 If you mention this model in a publication, I ask that you include these citations for the model:
 
-* Laguna-Sanchez, G.A. (2024).  Alpha-stable based stochastic GMMS memristor model.  https://github.com/galaguna/HEPPIE_pitch_estimation_algorithm. 
+* Laguna-Sanchez, G.A. (2024).  HEPPIE, a simple and practical pith estimation algorithm.  https://github.com/galaguna/HEPPIE_pitch_estimation_algorithm. 
 
 ## COPYRIGHT AND LICENSE
 
